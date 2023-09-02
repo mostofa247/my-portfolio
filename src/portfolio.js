@@ -400,9 +400,9 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "sakib.png",
+    profile_image_path: "mostofa.jpg",
     resumeLink:
-      "https://drive.google.com/file/d/1I0SJc8-HFKPgQtfxnDqX4VYdxapssrFG/view?usp=sharing",
+      "https://drive.google.com/file/d/1DH1-xRrsl9TX3JvujfPot8x2yJH5f4vf/view?usp=sharing",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },
