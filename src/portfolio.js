@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1I0SJc8-HFKPgQtfxnDqX4VYdxapssrFG/view?usp=sharing",
+    "https://drive.google.com/file/d/1DH1-xRrsl9TX3JvujfPot8x2yJH5f4vf/view?usp=sharing",
   mail: "mdmostofakamal5596@gmail.com",
 };
 
@@ -400,7 +400,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "mostofa.jpg",
+    profile_image_path: "mostofakamal.jpg",
     resumeLink:
       "https://drive.google.com/file/d/1DH1-xRrsl9TX3JvujfPot8x2yJH5f4vf/view?usp=sharing",
     description:
